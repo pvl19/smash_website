@@ -9,8 +9,15 @@ export default function Overview() {
       <br></br>
       <br></br>
       The goal of this initiative is to provide the tools and environment to <b><i>SMASH</i></b> records in the Big Data era of Astronomy & Physics!</p>
-      <p className="hackathon">
-      Additionally, <b><i>we are hosting a Hackathon at UC San Diego on January 17-18, 2026</i></b>. More information can be found on the dedicated <a href="https://indico.cern.ch/event/1624615/" target="_blank" rel="noopener noreferrer">Hackathon event site</a>.
+      <h2>Next Up</h2>
+      <p>
+        {/* <b>What: </b>The next SMASH meeting will be a <bi>review of NeurIPS 2025</bi>, which is being help at the San Diego Convention Center from Nov. 30th to Dec. 5th.
+        <br></br> */}
+        <b>Who: </b><a href="https://mristic.space/" target="_blank" rel="noopener noreferrer">Dr. Marko Ristic</a>, ISTI Postdoctoral Fellow at Los Alamos National Laboratory
+        <br></br>
+        <b>Where: </b>SERF 383.
+        <br></br>
+        <b>When: </b>Tuesday, April 21, 2026.
       </p>
       <h2>Join the SMASH Community!
       </h2>
