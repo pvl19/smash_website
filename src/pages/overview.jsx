@@ -13,11 +13,11 @@ export default function Overview() {
       <p>
         {/* <b>What: </b>The next SMASH meeting will be a <bi>review of NeurIPS 2025</bi>, which is being help at the San Diego Convention Center from Nov. 30th to Dec. 5th.
         <br></br> */}
-        <b>Who: </b><a href="https://mristic.space/" target="_blank" rel="noopener noreferrer">Dr. Marko Ristic</a>, ISTI Postdoctoral Fellow at Los Alamos National Laboratory
+        <b>Who: </b><a href="https://www.sdsc.edu/research/experts/nguyen_mai.html" target="_blank" rel="noopener noreferrer">Dr. Mai Nguyen</a>, Computational Scientist at the San Diego Supercomputer Center
         <br></br>
-        <b>Where: </b>SERF 383.
+        <b>Where: </b>SDSC Auditorium.
         <br></br>
-        <b>When: </b>Tuesday, April 21, 2026.
+        <b>When: </b>Tuesday, May 26, 2026.
       </p>
       <h2>Join the SMASH Community!
       </h2>

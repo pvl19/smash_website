@@ -39,3 +39,5 @@ npm install --save-dev gh-pages
 npm run deploy
 ```
 
+# copy to physics server
+scp -r dist/* username@web.physics.ucsd.edu:/var/www/vhosts/smash.ucsd.edu

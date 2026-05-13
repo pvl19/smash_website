@@ -41,14 +41,6 @@ export default function App() {
                   Locations
                 </button>
               </li>
-              <li>
-                <button
-                  className={tab === 'Past Meetings' ? 'active' : ''}
-                  onClick={() => setTab('Past Meetings')}
-                >
-                  Past Meetings
-                </button>
-              </li>
             </ul>
           </nav>
         </aside>
