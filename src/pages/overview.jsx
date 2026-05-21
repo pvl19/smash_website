@@ -15,7 +15,9 @@ export default function Overview() {
         <br></br> */}
         <b>Who: </b><a href="https://www.sdsc.edu/research/experts/nguyen_mai.html" target="_blank" rel="noopener noreferrer">Dr. Mai Nguyen</a>, Computational Scientist at the San Diego Supercomputer Center
         <br></br>
-        <b>Where: </b>SDSC Auditorium.
+        <b>What: </b>Cyberinfrastructure for AI-Enabled Science at SDSC
+        <br></br>
+        <b>Where: </b>SDSC Synthesis Center.
         <br></br>
         <b>When: </b>Tuesday, May 26, 2026.
       </p>

@@ -22,7 +22,7 @@ export default function Schedule() {
             <tr>
               <td>May 26, 2026</td>
               <td><a href="https://www.sdsc.edu/research/experts/nguyen_mai.html" target="_blank" rel="noopener noreferrer">Dr. Mai Nguyen</a></td>
-              <td>SDSC Auditorium</td>
+              <td>SDSC Synthesis Center</td>
             </tr>
             <tr>
               <td>June 23, 2026</td>
