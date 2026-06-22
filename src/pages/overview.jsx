@@ -13,13 +13,13 @@ export default function Overview() {
       <p>
         {/* <b>What: </b>The next SMASH meeting will be a <bi>review of NeurIPS 2025</bi>, which is being help at the San Diego Convention Center from Nov. 30th to Dec. 5th.
         <br></br> */}
-        <b>Who: </b><a href="https://www.sdsc.edu/research/experts/nguyen_mai.html" target="_blank" rel="noopener noreferrer">Dr. Mai Nguyen</a>, Computational Scientist at the San Diego Supercomputer Center
+        <b>Who: </b><a href="https://joshspeagle.com/" target="_blank" rel="noopener noreferrer">Dr. Joshua S. Speagle (沈佳士)</a>, Computational Scientist at the San Diego Supercomputer Center
         <br></br>
-        <b>What: </b>Cyberinfrastructure for AI-Enabled Science at SDSC
+        <b>What: </b><i>What the *** are we Doing? (or: why do we do research?)</i>
         <br></br>
-        <b>Where: </b>SDSC Synthesis Center.
+        <b>Where: </b>SERF 383.
         <br></br>
-        <b>When: </b>Tuesday, May 26, 2026.
+        <b>When: </b>Tuesday, June 23, 2026.
       </p>
       <h2>Join the SMASH Community!
       </h2>

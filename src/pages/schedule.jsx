@@ -20,14 +20,9 @@ export default function Schedule() {
           </thead>
           <tbody>
             <tr>
-              <td>May 26, 2026</td>
-              <td><a href="https://www.sdsc.edu/research/experts/nguyen_mai.html" target="_blank" rel="noopener noreferrer">Dr. Mai Nguyen</a></td>
-              <td>SDSC Synthesis Center</td>
-            </tr>
-            <tr>
               <td>June 23, 2026</td>
               <td><a href="https://joshspeagle.com/" target="_blank" rel="noopener noreferrer">Dr. Joshua S. Speagle (沈佳士)</a></td>
-              <td>TBD</td>
+              <td>SERF 383</td>
             </tr>
           </tbody>
         </table>
